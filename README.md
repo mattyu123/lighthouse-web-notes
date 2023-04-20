@@ -6,5 +6,5 @@ This repository contains all the notes that I will be using for Lighthouse Labs 
 
 Hello, my name is [Matthew Yu](https://github.com/mattyu123), and I am currently taking a course at [Lighthouse Labs](https://www.lighthouselabs.ca/)
 
-* [week 1](/week_1/)
-  * [day 1](/week_1/day_1/)
+* [Week 1](/week_1/)
+  * [Day 1](/week_1/day_1/)
